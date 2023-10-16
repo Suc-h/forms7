@@ -1,0 +1,11 @@
+G:\PRG\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe.config
+G:\PRG\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe
+G:\PRG\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.pdb
+G:\PRG\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.AssemblyReference.cache
+G:\PRG\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.SuggestedBindingRedirects.cache
+G:\PRG\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form1.resources
+G:\PRG\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Properties.Resources.resources
+G:\PRG\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.GenerateResource.cache
+G:\PRG\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.CoreCompileInputs.cache
+G:\PRG\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.exe
+G:\PRG\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.pdb
